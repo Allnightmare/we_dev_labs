@@ -1,0 +1,15 @@
+label {width: 100px; display: inline-block;}
+fieldset{
+    border: 1px solid #dde1e7);
+    width: 1000px;
+    margin:auto;
+  }
+  body {
+    background-color: #1bb1ec;
+  }
+  fieldset
+{ 
+border: solid 1px #0c0c0c;
+background-color:#dde1e7 !important;
+
+}
